@@ -18,5 +18,5 @@
 ## Como Executar o Projeto Localmente
 
 1. **Pré-requisitos**: Certifique-se de ter o [Java 17+](https://www.oracle.com/java/technologies/javase-downloads.html), [Spring Boot](https://spring.io/projects/spring-boot), e o [MySQL](https://www.mysql.com/) instalados.
-2. **Clone o Repositório**:
+
 
