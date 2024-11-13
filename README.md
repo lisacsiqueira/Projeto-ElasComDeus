@@ -14,8 +14,6 @@
 - **Backend**: Spring Boot
 - **Frontend**: HTML, CSS, JavaScript
 - **Banco de Dados**: MySQL
-- **Autenticação**: JWT (JSON Web Token) para autenticação segura
-- **Deploy**: Heroku ou outra plataforma compatível com Spring Boot e MySQL
 
 ## Como Executar o Projeto Localmente
 
